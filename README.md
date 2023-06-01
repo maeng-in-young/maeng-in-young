@@ -6,6 +6,8 @@
 <p align="center">
 Hi, 🙋‍♂️ I'm InYoung Maeng, a junior developer. 
 </p>
+</p>
+</p>
 
 
 ## 📚Tech stack📚 
@@ -20,6 +22,9 @@ Hi, 🙋‍♂️ I'm InYoung Maeng, a junior developer.
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></p>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+</p>
+
 
 ## Connect with me:
 <p align="left">
