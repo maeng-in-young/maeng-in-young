@@ -4,7 +4,7 @@
 
 <h3 align="center">✨About me!✨</h3>
 <p align="center">
-Hi, 🙋‍♂️ I'm Inyoung Maeng, a junior developer. 
+Hi, 🙋‍♂️ I'm InYoung Maeng, a junior developer. 
 </p>
 
 
@@ -13,11 +13,11 @@ Hi, 🙋‍♂️ I'm Inyoung Maeng, a junior developer.
 
  
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   
 <h4 align="center">tools</h4>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
