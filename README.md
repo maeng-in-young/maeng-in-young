@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me 🙋‍♂️
   
-- ⚡ **I will be an avid developer.**
+- ⚡ **My ultimate goal is to become a data engineer.**
 
 - 🌱 I’m currently learning **Python, MySQL, JavaScript, CSS, HTML.**
 
