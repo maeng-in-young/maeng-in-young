@@ -24,7 +24,10 @@ Hi, 🌱I'm Inyoung Maeng, a junior developer.
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-  <h4 align="center"> 📬Instagram</h4>
-  <a href = "https://www.instagram.com/in_zeroo><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-	</a>
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/developernaimul"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/developernaimul"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/developernaimul/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </div>
