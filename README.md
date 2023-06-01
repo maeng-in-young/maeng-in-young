@@ -9,7 +9,7 @@ Hi, 🙋‍♂️ I'm InYoung Maeng, a junior developer.
 
 
 ## 📚Tech stack📚 
-<h4 align="center"> Platforms & Languages </h4>
+<h4 align="center"> 💻Platforms & Languages💻 </h4>
 
  
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -19,7 +19,7 @@ Hi, 🙋‍♂️ I'm InYoung Maeng, a junior developer.
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   
-<h4 align="center">tools</h4>
+<h4 align="center">💻tools💻</h4>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
