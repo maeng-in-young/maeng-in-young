@@ -9,14 +9,14 @@
 <h3 align="center">I'm a passionate junior developer from South Korea.</h3>
 
 ## 🙋‍♂️ About Me 🙋‍♂️
+  
+- ⚡ **I will be an avid developer.**
 
-- 🌱 I’m currently learning Python, MySQL, JavaScript, CSS, HTML.**
+- 🌱 I’m currently learning **Python, MySQL, JavaScript, CSS, HTML.**
 
 - 👨‍💻 All of my projects are available at **[My Projects](https://github.com/maeng-in-young?tab=projects)**
 
 - 📫 How to reach me **12301505@gamil.com**
-
-- ⚡ TMI >  **I like music.**
 
 
 ## 📚Tech stack📚 
