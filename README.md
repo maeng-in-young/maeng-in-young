@@ -1,13 +1,21 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=shark&color=FFA7A7&height=120&section=header)
+  
+  
+  
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm InYoung Maeng</h1>
+<h3 align="center">I'm a passionate junior developer from South Korea.</h3>
 
-## ✨About me!✨
-<p align="center">
-Hi, 🙋‍♂️ I'm InYoung Maeng, a junior developer. 
-</p>
-</p>
-</p>
+## 🙋‍♂️ About Me 🙋‍♂️
+
+- 🌱 I’m currently learning Python, MySQL, JavaScript, CSS, HTML.**
+
+- 👨‍💻 All of my projects are available at **[My Projects](https://github.com/maeng-in-young?tab=projects)**
+
+- 📫 How to reach me **12301505@gamil.com**
+
+- ⚡ TMI **I like music.**
 
 
 ## 📚Tech stack📚 
