@@ -1,6 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=shark&color=FFA7A7&height=120&section=header)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaeng-in-young&count_bg=%2376E125&title_bg=%23163374&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   
   
