@@ -25,8 +25,6 @@ Hi, 🌱I'm Inyoung Maeng, a junior developer.
 <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
   <h4 align="center"> 📬Instagram</h4>
-  <a href="https://blog.naver.com/imanjela](https://instagram.com/in_zerooo?igshid=OGQ5ZDc2ODk2ZA==">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+  <a href = "https://www.instagram.com/in_zeroo><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 	</a>
-  
 </div>
