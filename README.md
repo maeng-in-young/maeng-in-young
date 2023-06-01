@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=shark&color=FFA7A7&height=120&section=header)
 
-<h3 align="center">✨About me!✨</h3>
+## >✨About me!✨</
 <p align="center">
 Hi, 🙋‍♂️ I'm InYoung Maeng, a junior developer. 
 </p>
