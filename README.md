@@ -4,7 +4,7 @@
 
 <h3 align="center">✨About me!✨</h3>
 <p align="center">
-Hi, 🌱I'm Inyoung Maeng, a junior developer. 
+Hi, 🙋‍♂️ I'm Inyoung Maeng, a junior developer. 
 </p>
 
 
