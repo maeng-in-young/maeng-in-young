@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **12301505@gamil.com**
 
-- ⚡ TMI **I like music.**
+- ⚡ TMI >  **I like music.**
 
 
 ## 📚Tech stack📚 
